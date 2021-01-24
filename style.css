@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+marquee{
+    background-color: #ab000d;
+}
+
+.classroomimage img{
+    height: 400px; 
+}
+#Acheivments{
+    text-align: left;
+margin-left: 20px;
+    margin-right: 20px;
+}
+.img-responsive{
+    height: 1px;
+}
+.movie_head{
+    display: inline-block;
+    width: 90%;
+}
+.img{
+    height: 200px;
+    width: 400px;
+}
